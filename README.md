@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🦖 Holopin Badges
 [![An image of @g31dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/g31dev)](https://holopin.io/@g31dev)
+
+### ⚡ GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G31-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=G31-dev)](https://github.com/ryo-ma/github-profile-trophy)
